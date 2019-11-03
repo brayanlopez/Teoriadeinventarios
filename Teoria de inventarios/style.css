@@ -1,0 +1,11 @@
+body{
+	text-align: center;
+}
+header{
+	background-color: rgb(255,0,0);
+	padding: 0px;
+}
+main, footer{
+	background-color: rgb(111,255,0);
+	padding: 0px 100px 0px 100px;
+}
