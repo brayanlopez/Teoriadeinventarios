@@ -1,7 +1,7 @@
 var button = document.getElementById('button');
 
 var onButtonClick = function (e) {
-    var resultado = document.getElementById("test");
+    var resultado = document.getElementById("resultado");
     var demanda = document.getElementById("demanda");
     var costoCompra = document.getElementById("costoCompra");
     var costoConservacion = document.getElementById("costoConservacion");
